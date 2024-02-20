@@ -1,4 +1,5 @@
 
+This web program provides you with a basic interface to access your ESP card connected to any wifi network over the internet.
 
 # How to Run App
 
