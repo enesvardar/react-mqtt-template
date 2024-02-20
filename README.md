@@ -1,7 +1,15 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# How to Run App
+
+- First of all, the following folders are opened with VsCode.
+- The npm install and npm start instructions are executed sequentially.
+  
+  */mqtt-service
+  */database-service
+  */frontend
+
+  
 <img src="https://github.com/enesvardar/react-mqtt-template/blob/main/img/1.png"/>
 
 <img src="https://github.com/enesvardar/react-mqtt-template/blob/main/img/2.png"/>
